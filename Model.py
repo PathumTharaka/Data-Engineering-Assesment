@@ -6,7 +6,7 @@ import altair as alt
 st.set_page_config(layout="wide")
 
 
-data = pd.read_csv('order.csv')
+data = pd.read_csv('C:/Users/pathu/Downloads/order.csv')
 
 
 print(data.head()) 
